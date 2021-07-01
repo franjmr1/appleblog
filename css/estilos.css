@@ -42,3 +42,10 @@ body
     width: 20px;
     vertical-align: middle;
 }
+
+#footer{
+    background: blanchedalmond;
+    color: blue;
+    text-align: center;
+
+}
